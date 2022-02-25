@@ -1,3 +1,4 @@
+version = '1.0.0'
 def mrange(start=0,end=0,jump=1):
     a=[]
     if ((isinstance(start,str)==True and isinstance(end,str)==False) or (isinstance(start,str)==False and isinstance(end,str)==True)):
