@@ -1,3 +1,4 @@
+version = '1.0.0'
 def tachso(xau):
     mang=''
     for  i in xau:
